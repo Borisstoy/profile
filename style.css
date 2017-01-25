@@ -151,19 +151,19 @@ hr {
   padding: 20px 0 50px 0;
 }
 
-* Fixed sidebar layout */
+/*SIDEBAR*/
 
 #content{
   margin-left: 120px;
 }
 
 #sidebar {
-  background-color: #384047;
+  background-color: #fff;
   position: fixed;
   left: 0px;
   top: 0px;
   bottom: 0px;
-  width: 120px;
+  width: 100px;
   text-align: center;
 }
 
