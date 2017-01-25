@@ -103,7 +103,7 @@ hr {
 }
 
 .img-music {
-  width: 80%;
+  width: 60%;
 }
 
 .wrapper-music h3 {
@@ -141,6 +141,10 @@ hr {
 .img-profile{
   width: 8rem;
   clip-path: circle(60px at center);
+}
+
+.music-title {
+  text-align: center;
 }
 
 /*ABOUT*/
@@ -196,6 +200,9 @@ hr {
   }
   #sidebar {
     display: none;
+  }
+  .main_wrapper {
+    width: 90%;
   }
 }
 
