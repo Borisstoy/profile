@@ -159,6 +159,7 @@ hr {
 
 #sidebar {
   background-color: #fff;
+  border-right: 1px solid #000000;
   position: fixed;
   left: 0px;
   top: 0px;
@@ -180,11 +181,11 @@ hr {
 #sidebar a {
   text-decoration: none;
   font-size: 25px;
-  color:#788188;
+  color:#000000;
 }
 
 #sidebar a:hover {
-  color: white;
+  color: #b35009;
 }
 
 /* Responsive layout behavior */
